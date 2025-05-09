@@ -20,10 +20,10 @@
 <h2 align="center">🧰 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=blank,javascript,react,redux,nodejs,express,webpack,tailwind,bootstrap,html,css,git,npm,vscode" />
+  <img src="https://skillicons.dev/icons?i=javascript,react,redux,nodejs,express,webpack,tailwind,bootstrap,html,css,git,npm,vscode,blank" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,mongodb,mysql,firebase,postman,figma,dotnet,cs,cpp,c,redis,regex,bash,blank" />
+  <img src="https://skillicons.dev/icons?i=blank,py,mongodb,mysql,firebase,postman,figma,dotnet,cs,cpp,c,redis,regex,bash" />
 </p>
 
 ---
