@@ -7,7 +7,7 @@
 
 ---
 
-<h1 align="center">🌐 Main Profile</h1>
+<h2 align="center">🌐 Main Profile</h2>
 
 <p align="center">
   <a href="https://github.com/GB-saraiva">
@@ -17,7 +17,7 @@
 
 ---
 
-<h1 align="center">🧰 Tech Stack</h1>
+<h2 align="center">🧰 Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=blank,javascript,react,redux,nodejs,express,webpack,tailwind,bootstrap,html,css,git,npm,vscode" />
@@ -28,7 +28,7 @@
 
 ---
 
-<h1 align="center">📈 GitHub Activity</h1>
+<h2 align="center">📈 GitHub Activity</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gabriel-saraiva-flooxai&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true" height="170" />
@@ -37,7 +37,7 @@
 
 ---
 
-<h1 align="center">📫 Let's Connect</h1>
+<h2 align="center">📫 Let's Connect</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-saraiva-567718284/">
